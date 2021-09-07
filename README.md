@@ -4,6 +4,7 @@ Because of the COVID-19 pandemic of 2020, more and more people are concerned wit
 
 ## Dependencies:
 ##### YOLOV4
+##### weight file i have trained: https://drive.google.com/file/d/149Nd0aICdrxGoFPmbrBHlOmIdk-Qawni/view?usp=sharing
 ##### opencv with cuda
 ##### darknet (for webcam function or android camera function)
 
