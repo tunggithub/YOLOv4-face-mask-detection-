@@ -35,12 +35,9 @@ for linux: darknet.exe detector demo yolo.data yolov4-custom.cfg yolov4-custom_b
 
 
 
-https://user-images.githubusercontent.com/88756362/132337583-02ab5e0e-a24b-44bf-ac7b-689b4f494e8f.mp4
 
+https://user-images.githubusercontent.com/88756362/132350056-f2af1104-42c6-48ea-8df0-3c7773fd668f.mp4
 
-
-
-# Webcam detection
 
 
 # Android Camera detection
