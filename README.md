@@ -1,4 +1,4 @@
-# YOLOv4-for-face-mask-detection-support-for-covid19
+# YOLOv4-face-mask-detection-support-for-covid19
 
 Because of the COVID-19 pandemic of 2020, more and more people are concerned with protecting themselves using masks, that is why I created an application using OpenCV (with CUDA support) based on the YOLOv4 algorithm capable of detect people who wear the mask, not wear the mask, wear the mask but incorrect
 
