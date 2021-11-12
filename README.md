@@ -32,18 +32,5 @@ for linux: darknet.exe detector demo yolo.data yolov4-custom.cfg yolov4-custom_b
 <img src="https://user-images.githubusercontent.com/88756362/132335356-3173bdf2-2b4a-40bf-8b9a-7a8cb73e576c.jpg" width="450" height="450">
 <img src="https://user-images.githubusercontent.com/88756362/132334407-311248c1-6311-4e8d-9149-cd360ee47261.jpg" width="350" height="450">
 
-# Video detection
 
-
-
-
-https://user-images.githubusercontent.com/88756362/132350056-f2af1104-42c6-48ea-8df0-3c7773fd668f.mp4
-
-
-
-# Android Camera detection
-
-
-
-https://user-images.githubusercontent.com/88756362/132335547-55f85662-5e21-41bd-852e-a21300aacede.mp4
 
